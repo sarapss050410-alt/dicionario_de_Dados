@@ -1,0 +1,4 @@
+id_plano;nome;tipo;valor_mensal;cobertura
+1;Pet Básico;Básico;49,9;Consultas e vacinação
+2;Pet Completo;Completo;89,9;Consultas, exames e vacinação
+3;Pet Premium;Premium;129,9;Consultas, exames e procedimentos

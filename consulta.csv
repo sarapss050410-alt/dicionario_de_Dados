@@ -1,0 +1,5 @@
+id_consulta;id_animal;id_veterinario;data;hora;descricao;valor
+1;1;1;2026-08-20;09:00;Consulta de rotina;80
+2;3;2;2026-08-20;10:30;Avaliação dermatológica;120
+3;2;1;2026-08-21;14:00;Vacinação;60
+4;4;3;2026-08-22;15:30;Avaliação cardíaca;150

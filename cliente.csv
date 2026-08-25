@@ -1,0 +1,5 @@
+id_cliente;nome;cpf;telefone;email;endereco
+1;Ana Souza;123.456.789-01;(19) 99911-2233;ana@email.com;Rua das Flores, 100
+2;Carlos Oliveira;234.567.890-02;(19) 99822-3344;carlos@email.com;Rua Central, 250
+3;Marina Santos;345.678.901-03;(19) 99733-4455;marina@email.com;Av. Brasil, 80
+4;João Pereira;456.789.012-04;(19) 99644-5566;joao@email.com;Rua do Sol, 45
