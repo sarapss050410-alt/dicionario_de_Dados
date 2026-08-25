@@ -1,4 +1,4 @@
-id_veterinario;nome;crmv;especialidade;telefone
-1;Dra. Fernanda Lima;CRMV-SP 12345;Clínica geral;(19) 99555-6677
-2;Dr. Rafael Costa;CRMV-SP 23456;Dermatologia;(19) 99444-7788
-3;Dra. Camila Alves;CRMV-SP 34567;Cardiologia;(19) 99333-8899
+|id_veterinario;nome;crmv;especialidade;telefone
+|1;Dra. Fernanda Lima;CRMV-SP 12345;Clï¿½nica geral;(19) 99555-6677
+|2;Dr. Rafael Costa;CRMV-SP 23456;Dermatologia;(19) 99444-7788
+|3;Dra. Camila Alves;CRMV-SP 34567;Cardiologia;(19) 99333-8899

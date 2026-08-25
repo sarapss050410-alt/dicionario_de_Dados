@@ -1,31 +1,32 @@
-Entidade;Atributo;Tipo;Tamanho;Descrição
-Cliente;id_cliente;int;11;Chave primária do cliente
-Cliente;nome;varchar;60;Nome completo do dono do pet
-Cliente;cpf;varchar;14;CPF do cliente
-Cliente;telefone;varchar;15;Telefone de contato
-Cliente;email;varchar;80;E-mail do cliente
-Cliente;endereco;varchar;120;Endereço do cliente
-Animal;id_animal;int;11;Chave primária do animal
-Animal;id_cliente;int;11;Chave estrangeira do dono
-Animal;id_plano;int;11;Chave estrangeira do plano
-Animal;nome;varchar;60;Nome do animal
-Animal;especie;varchar;30;Espécie do animal
-Animal;raca;varchar;40;Raça do animal
-Animal;data_nasc;date;-;Data de nascimento do animal
-Plano;id_plano;int;11;Chave primária do plano
-Plano;nome;varchar;60;Nome do plano
-Plano;tipo;varchar;30;Tipo do plano
-Plano;valor_mensal;decimal;10,2;Valor mensal do plano
-Plano;cobertura;varchar;150;Descrição da cobertura
-Veterinario;id_veterinario;int;11;Chave primária do veterinário
-Veterinario;nome;varchar;60;Nome do veterinário
-Veterinario;crmv;varchar;20;Registro profissional CRMV
-Veterinario;especialidade;varchar;50;Especialidade do veterinário
-Veterinario;telefone;varchar;15;Telefone de contato
-Consulta;id_consulta;int;11;Chave primária da consulta
-Consulta;id_animal;int;11;Chave estrangeira do animal
-Consulta;id_veterinario;int;11;Chave estrangeira do veterinário
-Consulta;data;date;-;Data da consulta
-Consulta;hora;time;-;Horário da consulta
-Consulta;descricao;varchar;200;Descrição da consulta
-Consulta;valor;decimal;10,2;Valor da consulta
+|Entidade;Atributo;Tipo;Tamanho;Descriï¿½ï¿½o|
+|-|-|-|-|
+|Cliente;id_cliente;int;11;Chave primï¿½ria do cliente|
+|Cliente;nome;varchar;60;Nome completo do dono do pet|
+|Cliente;cpf;varchar;14;CPF do cliente|
+|Cliente;telefone;varchar;15;Telefone de contato|
+|Cliente;email;varchar;80;E-mail do cliente|
+|Cliente;endereco;varchar;120;Endereï¿½o do cliente|
+|Animal;id_animal;int;11;Chave primï¿½ria do animal|
+|Animal;id_cliente;int;11;Chave estrangeira do dono|
+|Animal;id_plano;int;11;Chave estrangeira do plano|
+|Animal;nome;varchar;60;Nome do animal|
+|Animal;especie;varchar;30;Espï¿½cie do animal|
+|Animal;raca;varchar;40;Raï¿½a do animal|
+|Animal;data_nasc;date;-;Data de nascimento do animal|
+|Plano;id_plano;int;11;Chave primï¿½ria do plano|
+|Plano;nome;varchar;60;Nome do plano|
+|Plano;tipo;varchar;30;Tipo do plano|
+|Plano;valor_mensal;decimal;10,2;Valor mensal do plano|
+|Plano;cobertura;varchar;150;Descriï¿½ï¿½o da cobertura|
+|Veterinario;id_veterinario;int;11;Chave primï¿½ria do veterinï¿½rio|
+|Veterinario;nome;varchar;60;Nome do veterinï¿½rio|
+|Veterinario;crmv;varchar;20;Registro profissional CRMV|
+|Veterinario;especialidade;varchar;50;Especialidade do veterinï¿½rio|
+|Veterinario;telefone;varchar;15;Telefone de contato|
+|Consulta;id_consulta;int;11;Chave primï¿½ria da consulta|
+|Consulta;id_animal;int;11;Chave estrangeira do animal|
+|Consulta;id_veterinario;int;11;Chave estrangeira do veterinï¿½rio|
+|Consulta;data;date;-;Data da consulta|
+|Consulta;hora;time;-;Horï¿½rio da consulta|
+|Consulta;descricao;varchar;200;Descriï¿½ï¿½o da consulta|
+|Consulta;valor;decimal;10,2;Valor da consulta|

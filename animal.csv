@@ -1,6 +1,6 @@
-id_animal;id_cliente;id_plano;nome;especie;raca;data_nasc
-1;1;1;bob;Cachorro;Shih-tzu;2021-04-10
-2;1;2;boba;Gato;Siamês;2020-08-22
-3;2;1;tiara;Cachorro;Golden Retriever;2019-11-03
-4;3;3;tigre;Gato;Persa;2022-02-15
-5;4;2;isa;Cachorro;Poodle;2020-06-30
+id_animal,id_cliente,id_plano,nome,especie,raca,data_nasc
+1,1,1,bob,Cachorro,Shih-tzu,2021-04-10
+2,1,2,boba,Gato,Siames,2020-08-22
+3,2,1,tiara,Cachorro,Golden Retriever,2019-11-03
+4,3,3,tigre,Gato,Persa,2022-02-15
+5,4,2,isa,Cachorro,Poodle,2020-06-30
